@@ -1,0 +1,16 @@
+# Language for DEV
+- html
+- css
+- java
+- javascript
+- ruby
+- python
+- Markdown
+- json
+- c#
+- c++
+- c
+- swift
+- go
+- php
+- My SQL
