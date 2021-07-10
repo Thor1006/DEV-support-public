@@ -27,7 +27,7 @@
 - Live server
 - Path intellisense
 - Prettier
-- Python
+- Python (For people want to write python)
 - Snippet
 - Tabnine AI
 - VScode-icon
