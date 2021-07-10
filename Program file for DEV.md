@@ -7,3 +7,4 @@
 - [iTerm (For mac)](https://iterm2.com)
 - [react](https://reactjs.org/)
 - [Git](https://git-scm.com/)
+- [xampp](https://www.apachefriends.org/index.html)
