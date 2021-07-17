@@ -8,3 +8,4 @@
 - [react](https://reactjs.org/)
 - [Git](https://git-scm.com/)
 - [xampp](https://www.apachefriends.org/index.html)
+- [Anaconda]()
