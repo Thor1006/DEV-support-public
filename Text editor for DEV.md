@@ -7,6 +7,8 @@
 - X code 
   * [X code install](https://apps.apple.com/us/app/xcode/id497799835?mt=12#:~:text=Xcode%20provides%20developers%20a%20unified%20workflow%20for%20user,the%20latest%20SDKs%2C%20and%20hundreds%20of%20powerful%20features%3A)
   * For mac only
+- Atom
+  * [Atom install](https://atom.io)
 ---
 # Extension
 ## For Visual studio code only
