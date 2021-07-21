@@ -8,3 +8,12 @@
 - [react](https://reactjs.org/)
 - [Git](https://git-scm.com/)
 - [xampp](https://www.apachefriends.org/index.html)
+- [Jetbrain toolbox](https://www.jetbrains.com)
+  - Pycharm (For python)
+  - intelliJ idea (For java)
+- [Visual studio (For .net)](https://visualstudio.microsoft.com)
+- [Mongo DB (For non SQL learning)](https://www.mongodb.com)
+- Microsoft SQL server
+  - [SQL server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+  - [SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+- [Anconda](https://www.anaconda.com)
