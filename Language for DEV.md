@@ -1,5 +1,5 @@
 # Language for DEV
-- html
+- html (.html)
 - css
 - java
 - javascript
@@ -14,3 +14,5 @@
 - go
 - php
 - My SQL
+- Kotlin
+- type script
